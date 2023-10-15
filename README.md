@@ -15,7 +15,7 @@ This is a responsive web page displaying a stats preview card component. It prov
 
 ## Demo
 
-You can see a live demo [here](#).
+You can see a live demo [here](https://a7medc7.github.io/Stats-preview-card-component/).
 
 ## Features
 
